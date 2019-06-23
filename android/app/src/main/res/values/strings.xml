@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vision Free Fitness</string>
+    <string name="subscription_key">971575cf5b674da088a6dd0a9d5ccecd</string>
+    <string name="subscription_apiroot">https://eastus.api.cognitive.microsoft.com//vision/v2.0</string>
+    <string name="add_subscription_key_tip_title">a492a07806634ca9896c6b2e8dcb8693</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Vision API calls.</string>
+</resources>
